@@ -1,2 +1,31 @@
 # GettingAndCleaningData_Project
-Coursera Data Science Course 3
+Coursera Data Science Course 3: Getting and Cleaning Data
+This project for Getting and Cleaning Data "Human Activity Recognition Using Smartphones": read, perform an analysis and output a tidy data set.
+
+The following steps need to be performed before running the R script:
+
+Download the zip file from the URL provided.
+
+Unzip the file.
+
+Move ALL of the following files at the same location as the R script: 
+
+ features.txt 
+ 
+ subject_train.txt 
+ 
+ subject_test.txt 
+ 
+ X_train.txt
+ 
+ X_test.txt
+ 
+ y_train.txt
+ 
+ y_test.txt
+ 
+When thses steps are complete, run the R script: run_analysis.R. 
+Note: it requires the reshape2 package, which can be downloaded from CRAN.
+The output of the R script is a tidy data set, tidy.csv.
+
+More description about the data and the analysis in the code book.
