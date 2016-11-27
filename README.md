@@ -1,5 +1,5 @@
 # GettingAndCleaningData_Project
-Coursera Data Science Course 3: Getting and Cleaning Data
+Coursera Data Science Course 3:
 
 This project for Getting and Cleaning Data "Human Activity Recognition Using Smartphones": read, perform an analysis and output a tidy data set.
 
