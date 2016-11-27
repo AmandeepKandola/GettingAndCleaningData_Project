@@ -1,5 +1,6 @@
 # GettingAndCleaningData_Project
 Coursera Data Science Course 3: Getting and Cleaning Data
+
 This project for Getting and Cleaning Data "Human Activity Recognition Using Smartphones": read, perform an analysis and output a tidy data set.
 
 The following steps need to be performed before running the R script:
