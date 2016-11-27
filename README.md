@@ -25,7 +25,7 @@ Move ALL of the following files at the same location as the R script:
  y_test.txt
  
 When thses steps are complete, run the R script: run_analysis.R. 
-Note: it requires the reshape2 package, which can be downloaded from CRAN.
+Note: The reshape2 package has been downloaded from CRAN.
 The output of the R script is a tidy data set, tidy.csv.
 
 More description about the data and the analysis in the code book.
